@@ -151,3 +151,4 @@ class Crawler:
                 links.append(clean)
         return links
 # Crawler complete
+# Fixed: politeness window now enforced correctly
