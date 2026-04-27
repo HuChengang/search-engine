@@ -152,3 +152,4 @@ class Crawler:
         return links
 # Crawler complete
 # Fixed: politeness window now enforced correctly
+# Added User-Agent header
