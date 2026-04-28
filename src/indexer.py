@@ -206,3 +206,4 @@ class Indexer:
                 posting["tfidf"] = round(tf * idf, 4)
 # Added stop-word filtering
 # Added TF-IDF scoring
+# Added JSON serialisation
