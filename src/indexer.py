@@ -205,3 +205,4 @@ class Indexer:
                 tf = 1 + math.log10(posting["tf"]) if posting["tf"] > 0 else 0.0
                 posting["tfidf"] = round(tf * idf, 4)
 # Added stop-word filtering
+# Added TF-IDF scoring
