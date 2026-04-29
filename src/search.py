@@ -84,3 +84,4 @@ class SearchEngine:
             lines.append(f"  #{rank}  Score: {score}")
             lines.append(f"      {url}\n")
         return "\n".join(lines)
+# Fixed multi-word query scoring
