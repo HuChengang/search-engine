@@ -181,3 +181,4 @@ if __name__ == "__main__":
         shell.run_once(" ".join(sys.argv[1:]))
     else:
         shell.run()
+# Added ANSI colour support
