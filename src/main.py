@@ -182,3 +182,4 @@ if __name__ == "__main__":
     else:
         shell.run()
 # Added ANSI colour support
+# Added single-command mode
