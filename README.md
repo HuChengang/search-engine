@@ -109,3 +109,5 @@ The inverted index is stored as a nested dictionary:
 - **tf** — raw term frequency within a page
 - **tfidf** — TF-IDF score: `(1 + log10(tf)) × log10(N/df)`
 - **positions** — 0-based token positions for proximity analysis
+
+<!-- final version -->
