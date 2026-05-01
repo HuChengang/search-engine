@@ -111,3 +111,4 @@ The inverted index is stored as a nested dictionary:
 - **positions** — 0-based token positions for proximity analysis
 
 <!-- final version -->
+# Final commit
