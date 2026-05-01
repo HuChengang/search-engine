@@ -153,3 +153,4 @@ class Crawler:
 # Crawler complete
 # Fixed: politeness window now enforced correctly
 # Added User-Agent header
+# Added edge case: empty body pages
